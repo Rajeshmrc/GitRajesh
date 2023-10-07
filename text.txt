@@ -1,6 +1,3 @@
 welcome to git 
 git SVC 
 staging area 
-local repo
-remote repo
-stash
